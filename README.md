@@ -4,11 +4,9 @@ Tools Used
 
 PostgreSQL
 Valentina Studio
-MySQL Workbench
 Git Hub
-MySQL
 VS code
 
 Goal
 
-To complete the course and build a solid SQL foundation for a future role as a Junior Database Administrator (remote/UK-based).
+To complete the course and build a solid SQL foundation for a future role (remote/UK-based).
